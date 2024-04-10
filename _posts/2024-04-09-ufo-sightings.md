@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Exploring UFO Sightings"
-date: 2024-04-10
-categories: data-visualization
+title: Exploring UFO Sightings
+tags: [UFOs,Discovery]
+style: fill
+color: secondary
+description: This post delves into the intriguing world of Unidentified Flying Object (UFO) sightings, showcasing two distinct visualizations derived from analysis of reported sightings across the globe. Our investigation utilizes a comprehensive dataset, revealing patterns and insights into the frequency and nature of these occurrences.
 ---
-
-This post delves into the intriguing world of Unidentified Flying Object (UFO) sightings, showcasing two distinct visualizations derived from analysis of reported sightings across the globe. Our investigation utilizes a comprehensive dataset, revealing patterns and insights into the frequency and nature of these occurrences.
 
 ### UFO Sightings by Country
 
