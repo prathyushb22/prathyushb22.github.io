@@ -10,7 +10,7 @@ description: This post delves into the intriguing world of Unidentified Flying O
 
 The first visualization presents a bar chart illustrating the number of UFO sightings reported in various countries. This chart highlights the countries with the highest frequency of sightings, offering a geographic perspective on UFO reporting trends.
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/chart_country.json" style="width: 100%"></vegachart>
+![UFO Sightings by Country]({{ '/assets/json/chart_country.json' | relative_url }})
 
 ### UFO Sightings by Shape
 
